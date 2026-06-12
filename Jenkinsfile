@@ -1,5 +1,5 @@
 pipeline {
-    agent any                    // run on any available agent
+    agent any                    // run on any available agent asap
 
     environment {                // define env variables
         APP_NAME = "my-app"
